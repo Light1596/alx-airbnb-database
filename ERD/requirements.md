@@ -46,3 +46,7 @@
 - recipient_id: Foreign Key, references User(user_id)
 - message_body: TEXT, NOT NULL
 - sent_at: TIMESTAMP, DEFAULT CURRENT_TIMESTAMP
+## Entities Relationship Diagram
+![ERD drawio](https://github.com/user-attachments/assets/ccae9c67-54b3-4c9c-a957-4c98a072a27f)
+
+
